@@ -1,1 +1,1 @@
-# visionMouse
+# vision-mouse
